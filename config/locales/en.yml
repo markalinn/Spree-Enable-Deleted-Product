@@ -1,0 +1,4 @@
+en:
+  notice_messages:
+    product_enabled: "Product Re-Enabled"
+    product_not_enabled: "Product Not Re-Enabled"
